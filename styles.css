@@ -53,6 +53,12 @@ main {
     text-decoration: none;
     border-radius: 4px;
 }
+.releases{
+    width: 100%;
+}
+.releases td {
+    text-align: center;
+}
 .carousel {
     width: 50%;
     overflow: hidden;
